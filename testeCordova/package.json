@@ -1,0 +1,25 @@
+{
+    "name": "hgs2000.testecordova",
+    "displayName": "Teste do Cordova Android",
+    "version": "0.0.1",
+    "description": "Teste de Aplicação Web/Mobile Cordova",
+    "main": "index.js",
+    "scripts": {"start":"node www\/js\/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Henrique Starosky",
+    "dependencies": {
+        "cordova-browser": "^4.1.0",
+        "cordova-plugin-whitelist": "^1.3.2",
+        "material-design-lite": "1.3.0",
+        "web": "0.0.2"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": [
+            "browser"
+        ]
+    }
+}

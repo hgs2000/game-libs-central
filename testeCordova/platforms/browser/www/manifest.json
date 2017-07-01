@@ -1,0 +1,40 @@
+{
+    "name": "Central de Jogos",
+    "icons": [
+        {
+            "src": "LocalPNG/favicon-36x36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "LocalPNG/favicon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "LocalPNG/favicon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "LocalPNG/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "LocalPNG/favicon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "LocalPNG/favicon-196x196.png",
+            "sizes": "196x196",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#C04848",
+    "background_color": "#C04848",
+    "start_url": "JavaServerPages/main.jsp",
+    "display": "standalone",
+    "orientation": "portrait"
+}
